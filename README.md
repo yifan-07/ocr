@@ -1,15 +1,19 @@
 # OCR
 
-## Process
+## 處理流程
 * step 1 影像處理
+- 影像旋轉
+  依據線條傾斜角度進行校正
 
 ## Package
 * pytesseract:
   Python-tesseract is a python wrapper for Google's Tesseract-OCR. 
-* pyocr
+* pyocr：
   A Python wrapper for OCR engines (Tesseract, Cuneiform, etc)
-* easyocr
+* easyocr：
   support 80+ language
+* agentocr：
+  是一个基于 PaddleOCR 和 ONNXRuntime 項目開發的一个使用簡單、調用方便的OCR套件(支持多種語言)
 
 ## source
 * OCR 介紹
