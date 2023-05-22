@@ -14,6 +14,7 @@
   support 80+ language
 * agentocr：
   是一个基于 PaddleOCR 和 ONNXRuntime 項目開發的一个使用簡單、調用方便的OCR套件(支持多種語言)
+* google: google vision api
 
 ## source
 * OCR 介紹
